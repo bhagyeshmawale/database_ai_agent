@@ -7,3 +7,6 @@ PINECODE_API_KEY = ""
 PINECONE_ENV = ""
 # GOOGLE_API_KEY= ""
 GOOGLE_API_KEY= ""
+
+
+https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateInstanceId=f8e99ae2-8635-477a-b48b-791ab3e28c9e&environment=Default-66781489-4f17-478c-8d6e-5eb11d0ff4fb
