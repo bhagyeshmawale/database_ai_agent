@@ -1,0 +1,17 @@
+Component,Version,License,Key Details
+LangChain,0.1.16+,MIT,"Orchestrates LLM workflows, document analysis, and chatbot development."
+LangFlow,1.0+,MIT,Visual workflow design and multi-agent orchestration. Requires Python 3.10+.
+LangGraph,0.3.31+,MIT,"Builds stateful, cyclic multi-agent applications."
+OpenAI Access,N/A,API Terms,RequiresOPENAI_API_KEY; use GPT-4 Turbo for complex agentic workflows.
+LangSmith,N/A,MIT,Observability platform for tracing and debugging LLM calls.
+Langfuse,Open-Source,MIT,"Alternative for tracing, feedback, and analytics."
+LangServe,N/A,MIT,Deploys LCEL chains as APIs.
+Vector Databases,FAISS,Varies,FAISS for retrieval-augmented workflows.
+WikipediaAPIWrapper,langchain-community,MIT,Provides research tools for agents.
+Python,3.10 - 3.13,N/A,Required for LangFlow compatibility.
+OpenAI text-embedding-3-large,Released Jan 2024,Proprietary,- API access only (cannot self-host)
+,,,- Up to 3072 dimensions
+,,,- Max input: 8191 tokens
+,,,- $0.13 per 1M tokens
+,,,- For English and non-English tasks
+,,,- Best performance among OpenAI embeddings
